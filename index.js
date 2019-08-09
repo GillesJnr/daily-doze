@@ -46,8 +46,8 @@ module.exports = function () {
 
 function formatQuote(doze){
   return [
-    quotes[quote],
-    quotes[author]
+    quotes['quote'],
+    quotes['author']
   ]
   
 }
