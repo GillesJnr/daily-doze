@@ -1,6 +1,6 @@
 {
   "name": "daily-doze",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Daily Motivation Quotes",
   "main": "index.js",
   "scripts": {
