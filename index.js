@@ -47,6 +47,7 @@ module.exports = function () {
 function formatQuote(doze){
   return [
     quotes.quote,
-    quotes.author
-  ].join('\n')
+    quote.author
+  ]
+  
 }
