@@ -39,7 +39,7 @@ var quotes = [
 
 
 module.exports = function () {
-  var doze = quotes[Math.floor(Math.rand() * quotes.length)];
+  var doze = quotes[Math.floor(Math.random() * quotes.length)];
   return formatQuote(doze);
 }
 
